@@ -6,6 +6,12 @@ The project is based on 2D graphics and will only have 2 playable character.<br>
 The movements are simple, you can: attack and move to the left, right and up(jump).<br>
 Will be pixeled graphics for the sake of my computer memory card :)<br>
 <b> If you have any ideas to improve this code, contact me, thanks </br>
-
+<h2 align="center"> Project Status <h2>
+- [x] Project Setup <br>
+- [x] Create Player and Enemy  <br>
+- [ ] Move Characters With Event Listeners <br>
+- [ ] Attacks <br>
+- [ ] Health Bar  <br>
+- [ ] Game Over <br>
 
 
